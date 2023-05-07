@@ -1,0 +1,4 @@
+
+bank name:IOB
+branch:banarghatta road,jp nagar.
+city:bangalore
